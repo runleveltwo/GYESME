@@ -1,7 +1,8 @@
 # GYESME
-Description: GYESME: Minimalist modular GNOME fork, independent from systemd
 
 **Minimal by default. Modular by design. Free to run on the Linux distribution you choose.**
+
+![GYESME Logo](img/gyesme_small.jpg)
 
 GYESME is a modern, modular GNOME fork that treats minimalism as a default rather than a constraint. It reintroduces optional functionality that is disabled or removed upstream, preserves established Linux interaction patterns, and minimizes hard dependencies on systemd to maintain portability across Linux distributions.
 
