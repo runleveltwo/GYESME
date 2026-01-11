@@ -100,27 +100,6 @@ GYESME’s development is structured around **6 milestones**:
 
 ---
 
-## How to Contribute
-
-Follow this workflow:
-
-- [ ] Pick an issue from the [Project Board](Projects) → **Backlog** column.  
-- [ ] Move it to **To Do** / **In Progress** as you start working.  
-- [ ] Submit a **Pull Request (PR)** with your changes.  
-- [ ] Move the card to **Review / PR** for review.  
-- [ ] Merge the PR and move to **Done** when completed.
-
-**Labels guide:**
-
-- `good first issue` → Beginner-friendly tasks  
-- `enhancement` → Optional feature or module  
-- `modular-feature` → Modular, opt-in feature  
-- `testing` → Verification or automated tests  
-- `research` → Documentation or investigation  
-- `UX` → User experience enhancements  
-
----
-
 ## Labels Reference
 
 To help contributors correctly categorize their work:
@@ -140,7 +119,7 @@ To help contributors correctly categorize their work:
 
 ## Communication
 
-- Join discussions via **[Issues](Issues)** or **[Pull Requests](Pull Requests)**.  
+- Join discussions via **[Issues](https://github.com/runleveltwo/GYESME/issues)** or **[Pull Requests](Pull Requests)**.  
 - Participate in **Project Board planning and updates**.  
 - Future community forum (TBD) for roadmap feedback and design discussions.
 
