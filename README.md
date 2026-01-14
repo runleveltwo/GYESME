@@ -119,8 +119,10 @@ Timelines are intentionally flexible and subject to revision.
 
 ## Communication
 
-- Use **Issues** and **Pull Requests** for discussion and proposals  
+- Use **Issues** for proposals, tracking specific tasks, and collaborating on solutions
   https://github.com/runleveltwo/GYESME/issues
+- Use **Discussions** for general questions, open-ended conversations, and idea sharing
+  https://github.com/runleveltwo/GYESME/discussions
 - Project boards track ongoing research and exploration
 - Future communication channels may be added as the project evolves
 
